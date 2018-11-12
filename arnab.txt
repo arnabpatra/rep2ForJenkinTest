@@ -1,0 +1,12 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is B0DB-70EE
+
+ Directory of C:\Users\IBM_ADMIN\Desktop\MyGitProject\example
+
+11/12/2018  08:32 PM    <DIR>          .
+11/12/2018  08:32 PM    <DIR>          ..
+11/12/2018  08:16 PM               475 abc.class
+11/12/2018  07:57 PM               148 abc.java
+11/12/2018  08:32 PM                 0 arnab.txt
+               3 File(s)            623 bytes
+               2 Dir(s)  65,861,955,584 bytes free
